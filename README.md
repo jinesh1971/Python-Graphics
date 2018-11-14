@@ -1,2 +1,2 @@
 # Python-Graphics
-Some graphic content on Python 
+Some of the cool graphics I have made on Python is available here. 
